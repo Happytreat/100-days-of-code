@@ -19,11 +19,10 @@ The log of my #100DaysOfCode challenge. Started on [November 26, Tuesday, 2019].
 
 **Thoughts:** 
 
-##### Post-exam Day 0: Researched about learning Cpp/C and decided on learning Cpp! 
+Post-exam Day 0: Researched about learning Cpp/C and decided on learning Cpp! 
+Goal: To learn more about and apply  fundamentals behind memory allocation and so on. 
 
-##### Goal: to learn more about and apply  fundamentals behind memory allocation and so on. 
-
-**Link:** [CS106B](https://see.stanford.edu/Course/CS106B)
+**Link to work:** [CS106B](https://see.stanford.edu/Course/CS106B)
 
 
 ### R1D2
