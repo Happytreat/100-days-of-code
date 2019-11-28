@@ -14,15 +14,19 @@ The log of my #100DaysOfCode challenge. Started on [November 26, Tuesday, 2019].
 
 ## Log
 
-### R1D1
+### Day 1: Nov 26, 2019
 **Today's Progress**: Started Week 1 Intro to Cpp by CS106B. 
 
-**Thoughts:** 
-
-Post-exam Day 0: Researched about learning Cpp/C and decided on learning Cpp! 
-Goal: To learn more about and apply  fundamentals behind memory allocation and so on. 
+**Thoughts:** Post-exam Day 0: Researched about learning Cpp/C and decided on learning Cpp! 
+My Goal: To learn more about and apply  fundamentals behind memory allocation and so on. 
 
 **Link to work:** [CS106B](https://see.stanford.edu/Course/CS106B)
 
+### Day 2: Nov 27, 2019
 
-### R1D2
+**Today's Progress**: Learnt Git By Concept. 
+
+**Thoughts:** I often just searched Git commands to use without really understanding fully what might each command do. Next up would install a Git visualiser like Git Kraken.
+
+**Link to work:** [Reference](https://dev.to/unseenwizzard/learn-git-concepts-not-commands-4gjc)
+
