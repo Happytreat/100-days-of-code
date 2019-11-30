@@ -43,3 +43,15 @@ The annoying thing about CS106B is that it took quite a while to find free acces
 - [Updated Reader](http://web.stanford.edu/class/cs106b//handouts/CS106BX-Reader.pdf)
 - [Cpp A1](http://web.stanford.edu/class/cs106b//assn/assn1.html)
 - [Qt Installation](https://web.stanford.edu/dept/cs_edu/qt-creator/qt-creator-linux.shtml)
+
+### Day 4: Nov 29, 2019
+
+**Today's Progress**: To learn more about GCP and its services, I coded a simple Slack Slash Command Bot to query Google Search. 
+
+**Thoughts:** Still not sure what's the difference between GCP and AWS. Researched a little more, it seems like the biggest reason why AWS is the clear market leader now is due to it being the first to invest in cloud computing? 
+
+**Links to work:** 
+- [Slack Slash Bot](https://cloud.google.com/functions/docs/tutorials/slack)
+- [AWS vs GCP](https://kinsta.com/blog/google-cloud-vs-aws/)
+
+### Day 5: Nov 30, 2019
