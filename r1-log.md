@@ -55,3 +55,13 @@ The annoying thing about CS106B is that it took quite a while to find free acces
 - [AWS vs GCP](https://kinsta.com/blog/google-cloud-vs-aws/)
 
 ### Day 5: Nov 30, 2019
+
+**Today's Progress**: Worked on the Typescript React Conversion Guide where I've migrated a JS TicTacToe game into TS compiled with Webpack 4.
+
+**Thoughts:** While this is not the first time I'm working with Typescript, it is the first time I have migrated from pure JS to pure Typescript and it does take a fair bit of time. I feel that this is worth it in the long time though as during the conversion, I actually found a small bug existing inside thr original Microsoft version which is amazing.
+
+**Links to work:** 
+- [React Conversion Guide](https://github.com/Happytreat/TypeScript-React-Conversion-Guide)
+- [Typescript Handbook](https://www.typescriptlang.org/docs/handbook/migrating-from-javascript.html)
+
+### Day 6: Dec 1, 2019
