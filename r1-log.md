@@ -65,3 +65,8 @@ The annoying thing about CS106B is that it took quite a while to find free acces
 - [Typescript Handbook](https://www.typescriptlang.org/docs/handbook/migrating-from-javascript.html)
 
 ### Day 6: Dec 1, 2019
+**Today's Progress**: Configured UPlan to use Webpack 4 on the client. Read up on Chpt 2 of CS106B Reader.
+
+**Thoughts:** Not the first time working with Webpack, but was refreshing to start from scratch and got to explore the newer features of Webpack 4 (as compared to v2x) such as merge. Was a really satisfying feeling when it successfully deployed!
+
+**Links to work:** [Webpack 4](https://webpack.js.org/guides/production/)
