@@ -70,3 +70,18 @@ The annoying thing about CS106B is that it took quite a while to find free acces
 **Thoughts:** Not the first time working with Webpack, but was refreshing to start from scratch and got to explore the newer features of Webpack 4 (as compared to v2x) such as merge. Was a really satisfying feeling when it successfully deployed!
 
 **Links to work:** [Webpack 4](https://webpack.js.org/guides/production/)
+
+### Day 7: Dec 2, 2019
+
+**Today's Progress**: Completed CP106B Lecture 4, learnt about C++ Libraries and the concept of abstraction and interfaces in C. Completed Hacker Tools Lectures on Virtual Machines and Shell Scripting. Finished the day off with some devOps maintenance of project.
+
+**Thoughts:** Watching the HT guys was like a series of "Ohhhh" moments as I finally understood how my supervisors use the command line so efficiently. A really cool trick I've learnt is that the shell can chain and group commands and so a command like
+
+```shell
+{who; ps aux} | grep Happytreat | head -n 5
+```
+
+would concat the output from who and ps aux, then find those containing 'Happytreat' and output the top 5. Each of these commands only focuses on 1 thing (Unix concept of doing one thing and do it well).
+
+
+### Day 8: Dec 3, 2019
