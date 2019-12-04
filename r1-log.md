@@ -85,3 +85,8 @@ would concat the output from who and ps aux, then find those containing 'Happytr
 
 
 ### Day 8: Dec 3, 2019
+**Today's Progress**: Completed Reader Chpt 3. Experimented with VirtualBox macOS and docker images.
+
+**Thoughts:** Was pretty busy with DSC stuff preparing for meeting today and definitely wanted to start some refactoring for UPlan. Will have to up the coding pace from now on. 
+
+### Day 9: Dec 4, 2019
