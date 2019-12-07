@@ -90,3 +90,13 @@ would concat the output from who and ps aux, then find those containing 'Happytr
 **Thoughts:** Was pretty busy with DSC stuff preparing for meeting today and definitely wanted to start some refactoring for UPlan. Will have to up the coding pace from now on. 
 
 ### Day 9: Dec 4, 2019
+**Today's Progress**: Read up on CSS Paradigms, Architecture such as BEM, Sass etc. Refactored UPlan app CSS styles using Styled component with BEM archictecture. Redesigned the layout of UPlan Landing pages. 
+
+**Thoughts:** CSS is really not as simple as most people think (or at least what I once thought). Really excited to try out SASS mixing etc and libraries such as complement(color). 
+
+### Day 10: Dec 5, 2019
+**Today's Progress**: Continued with UPlan Refactoring of Styles and components. Added Theme provider and several pastel themes to the app. Also planned additional features to add to UPlan to make the app simple, yet efficient to users (to differentiate from the many attempts at building similar apps).
+
+### Day 11: Dec 7, 2019
+
+
