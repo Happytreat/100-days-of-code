@@ -97,6 +97,14 @@ would concat the output from who and ps aux, then find those containing 'Happytr
 ### Day 10: Dec 5, 2019
 **Today's Progress**: Continued with UPlan Refactoring of Styles and components. Added Theme provider and several pastel themes to the app. Also planned additional features to add to UPlan to make the app simple, yet efficient to users (to differentiate from the many attempts at building similar apps).
 
-### Day 11: Dec 7, 2019
+### Day 10b: Dec 7, 2019
+**Today's Progress**: I took a Docker and Kubernetes 3h workshops at Developer space today. Learnt how to build a docker image and run it on a local machine. Learnt how to build a docker network and run multiple containers to interact on the same network.
 
+**Thoughts:** Not counted as a full day of code as most of this is through sample codes/tutorials without much internalising.
 
+### Day 11: Dec 8, 2019
+**Today's Progress**: Built up a boilerplate for React Beautiful Dnd components for UPlan and future projects using Dnd. Also setup Eslint Airbnb and setup Webstorm preference for editor etc. 
+
+**Thoughts:** After going through the Egg Head Course, I finally understood the subtlety of the dnd components such as how snapshots provided an additional feature to control what the board looks like when dragging (between cols and within a col). It is also the first time I've used shouldComponentUpdate function to optimise by reducing unnecessary renders.
+
+### Day 12: Dec 9, 2019
