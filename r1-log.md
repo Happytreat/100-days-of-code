@@ -107,4 +107,5 @@ would concat the output from who and ps aux, then find those containing 'Happytr
 
 **Thoughts:** After going through the Egg Head Course, I finally understood the subtlety of the dnd components such as how snapshots provided an additional feature to control what the board looks like when dragging (between cols and within a col). It is also the first time I've used shouldComponentUpdate function to optimise by reducing unnecessary renders.
 
-### Day 12: Dec 9, 2019
+### Day 12: Dec 10, 2019
+**Today's Progress**: Update Personal Website with Newer Projects and Resume. Started Refactoring Drag and Drop Components in UPlan - styles, dnd functions, redux. Refactored Backend Functions for Delete sem, optimise frontend. Started refactoring the serverless functions, separating business logic from the FAAS - enabled me to start unit testing.
