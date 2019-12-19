@@ -108,4 +108,7 @@ would concat the output from who and ps aux, then find those containing 'Happytr
 **Thoughts:** After going through the Egg Head Course, I finally understood the subtlety of the dnd components such as how snapshots provided an additional feature to control what the board looks like when dragging (between cols and within a col). It is also the first time I've used shouldComponentUpdate function to optimise by reducing unnecessary renders.
 
 ### Day 12: Dec 10, 2019
-**Today's Progress**: Update Personal Website with Newer Projects and Resume. Started Refactoring Drag and Drop Components in UPlan - styles, dnd functions, redux. Refactored Backend Functions for Delete sem, optimise frontend. Started refactoring the serverless functions, separating business logic from the FAAS - enabled me to start unit testing.
+**Today's Progress**: Update Personal Website with Newer Projects and Resume. Started Refactoring Drag and Drop Components in UPlan - styles, dnd functions, redux. Refactored Backend Functions for Delete sem, optimise frontend. Started refactoring the serverless functions, separating business logic from the FAAS - enabled me to start unit testing. 
+
+### Day 13: Dec 19, 2019
+**Today's Progress**: Just came back from overseas - back to the grind. Refactored the Backend Modules Lambda Function (see Day 12) and added unit tests. Just came across that Jest has the ablity to test DynamoDB, will try that with integration tests next. Also fix the redirect SPA problem in Netlify. It was slightly tricky as I had to place the _redirects text file in the dist folder which was cleaned each time. The solution I used in the end was to copy the _redirects file after cleaning from the public to dist folder. 
