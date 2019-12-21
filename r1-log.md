@@ -112,3 +112,9 @@ would concat the output from who and ps aux, then find those containing 'Happytr
 
 ### Day 13: Dec 19, 2019
 **Today's Progress**: Just came back from overseas - back to the grind. Refactored the Backend Modules Lambda Function (see Day 12) and added unit tests. Just came across that Jest has the ablity to test DynamoDB, will try that with integration tests next. Also fix the redirect SPA problem in Netlify. It was slightly tricky as I had to place the _redirects text file in the dist folder which was cleaned each time. The solution I used in the end was to copy the _redirects file after cleaning from the public to dist folder. 
+
+### Day 14: Dec 20, 2019
+**Today's Progress**: Fix an issue with React / Webpack with loading image relative path dynamically using require. Tried using lazy loading (does not work - to be researched more) and dynamic loading both of which removes the error but does not load the image. In the end, found out that require.context(folder, true) works. Will be researching more about this interesting problem. 
+
+### Day 15: Dec 21, 2019
+**Today's Progress**: Created a Persist Theme in UPlan App. Makes more sense to shift theme into the user redux store (global store) so that it persists with the user. 
