@@ -118,3 +118,10 @@ would concat the output from who and ps aux, then find those containing 'Happytr
 
 ### Day 15: Dec 21, 2019
 **Today's Progress**: Created a Persist Theme in UPlan App. Makes more sense to shift theme into the user redux store (global store) so that it persists with the user. 
+
+### Day 16: Dec 27, 2019
+**Today's Progress**: Blog on React require.context. Check it out on https://melodiessim.netlify.com/Import-images-dynamically-using-require.context/
+
+### Day 17: Dec 28, 2019
+**Today's Progress**: Completed UPlan Reset Password Flow using AWS Amplify Forget Password functions. ThemeProvider from styled components only allows 1 child - resulting in an error in production build (React.children.only) (curiously this error did NOT appear in development build). Also add Eslint Airbnb for Client dev env.
+
